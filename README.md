@@ -68,4 +68,47 @@
     <li><a href="https://github.com/cinari4/spring-profile-editor-docs/issues">이슈 트래커</a></li>
     <li><a href="https://github.com/cinari4/spring-profile-editor-docs">문서</a></li>
 </ul>
+
+<h2>Screenshots / 스크린샷</h2>
+
+<p align="center">
+  <img src="images/main.png" alt="main" width="800"/>
+  <br/>
+  Plugin Overview
+  <br/>
+  플러그인 이미지
+</p>
+
+<p align="center">
+  <img src="images/search-highlight.png" alt="search-highlight" width="800"/>
+  <br/>
+  Search and highlight capability
+  <br/>
+  검색과 하이라이트 가능
+</p>
+
+<p align="center">
+  <img src="images/clickopen.png" alt="clickopen" width="800"/>
+  <br/>
+  Open profile file by clicking the profile header
+  <br/>
+  프로파일을 클릭했을 때, 해당 프로파일을 연다
+</p>
+
+<p align="center">
+  <img src="images/navigate.png" alt="navigate" width="800"/>
+  <br/>
+  Navigate to code location by selecting a value
+  <br/>
+  프로파일의 값을 선택했을 때, 바로 코드상의 위치로 이동
+</p>
+
+<p align="center">
+  <img src="images/change.png" alt="change" width="800"/>
+  <br/>
+  Real-time reflection of changes when profile values are modified and saved
+  <br/>
+  프로파일의 값을 수정하고 저장했을 때, 바로 플러그인에 변경사항 반영
+</p>
+
 <!-- Plugin description end -->
