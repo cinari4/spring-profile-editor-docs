@@ -127,4 +127,20 @@
   프로파일의 값을 수정하고 저장했을 때, 바로 플러그인에 변경사항 반영
 </p>
 
+<p align="center">
+  <img src="images/multimodule.png" alt="change" width="800"/>
+  <br/>
+  Multi-Module Support: Seamlessly switch modules via the dropdown to automatically filter and display relevant configurations.
+  <br/>
+  멀티 모듈 지원: 드롭다운으로 모듈을 전환하면 관련 설정만 자동으로 필터링하여 표시합니다.
+</p>
+
+<p align="center">
+  <img src="images/profilefiltering.png" alt="change" width="800"/>
+  <br/>
+  Profile Filtering: Use the dropdown to filter specific profiles or toggle all for a focused view.
+  <br/>
+  프로파일 필터링: 드롭다운으로 특정 프로파일을 선택하거나 전체를 제어하여 집중된 화면을 볼 수 있습니다.
+</p>
+
 <!-- Plugin description end -->
