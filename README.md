@@ -18,12 +18,20 @@
         Double-click any value to navigate directly to its definition in the source file. Click profile headers to open the corresponding configuration file.
     </li>
     <li>
+        <b>Profile Filtering</b><br/>
+        Use the "Profiles" dropdown to select/deselect specific profiles or toggle all profiles at once for a focused view.
+    </li>
+    <li>
         <b>Search & Highlight</b><br/>
         Filter properties by key or value with real-time highlighting to locate configurations.
     </li>
     <li>
         <b>Context Menu Access</b><br/>
         Right-click on any <code>.yml</code> or <code>.properties</code> file in the Project View to open the editor instantly.
+    </li>
+    <li>
+        <b>Multi-Module Support</b><br/>
+        Seamlessly switch between modules using the dropdown selector. The editor automatically filters and displays configurations relevant to the selected module.
     </li>
 </ul>
 
@@ -54,12 +62,20 @@
         테이블의 값을 더블 클릭하면 소스 파일의 해당 정의로 바로 이동합니다. 프로파일 헤더를 클릭하면 해당 설정 파일이 열립니다.
     </li>
     <li>
+        <b>프로파일 필터링 (Profile Filtering)</b><br/>
+        "Profiles" 드롭다운을 통해 특정 프로파일만 선택해서 보거나, "All" 옵션으로 전체를 한 번에 선택/해제할 수 있습니다.
+    </li>
+    <li>
         <b>검색 및 강조 (Search & Highlight)</b><br/>
         키워드로 속성을 실시간 검색하고 하이라이트 기능을 통해 원하는 설정을 빠르게 찾을 수 있습니다.
     </li>
     <li>
         <b>컨텍스트 메뉴 지원 (ContextMenu Access)</b><br/>
         Project View에서 <code>.yml</code> 또는 <code>.properties</code> 파일을 우클릭하여 플러그인을 즉시 실행할 수 있습니다.
+    </li>
+    <li>
+        <b>멀티 모듈 지원 (Multi-Module Support)</b><br/>
+        드롭다운 선택기를 통해 모듈 간을 원활하게 전환할 수 있습니다. 에디터는 선택된 모듈과 관련된 설정만 자동으로 필터링하여 표시합니다.
     </li>
 </ul>
 
