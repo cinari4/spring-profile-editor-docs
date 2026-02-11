@@ -1,5 +1,9 @@
 # spring-profile-editor
 
+[![Get it from JetBrains Marketplace](https://img.shields.io/badge/Get%20it%20from-JetBrains%20Marketplace-21D789?logo=jetbrains&style=flat-square)](https://plugins.jetbrains.com/plugin/30111-spring-profile-editor)
+[![Version](https://img.shields.io/jetbrains/plugin/v/30111-spring-profile-editor.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/30111-spring-profile-editor)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/30111-spring-profile-editor.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/30111-spring-profile-editor)
+
 <!-- Plugin description -->
 <h2>Unified Profile Management for Spring Boot</h2>
 <p>
